@@ -1,5 +1,8 @@
 # Denoising-Medical-Images
 
+Related blog which I have written on denoising images can be found here
+https://medium.com/nerd-for-tech/denoising-images-using-autoencoders-4a64499f10ba
+
 ## Problem Statement
 
 Due to advancement in technology we might have a large amount of the data but there is always concern about the usability. For example, in medical images like X-rays, MRI, CT scans, Ultrasound, etc., when original images are put in the paper, the quality degrades, due to which the accuracy of the decision model degrades. These images are susceptible to noise.
